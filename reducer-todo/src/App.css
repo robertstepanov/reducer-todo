@@ -1,3 +1,5 @@
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+i {
+  cursor: pointer;
 }
